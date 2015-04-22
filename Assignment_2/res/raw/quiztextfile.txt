@@ -1,0 +1,10 @@
+What is Android version 4 called?;Ice cream sandwich;
+Android's kernel is based on what?;Linux;
+This tray stays at the bottom and always keeps your most important shortcuts and folders in view regardless of which panel is currently showing?;Favorites;
+Android's mechanism for applying a consistent style to an app or activity?;Themes;
+the library where components such as Button and textView are defined?;Widget;
+What is Android version 2 called?;Gingerbread;
+What selects multiple components to perform an action described by the intent?;User;
+Name of the gesture that scrolls overflowing content, or navigates between views in the same hierarchy?;Gesture - Swipe;
+Name of the gesture which zooms in content, it is also used for text selection?;Gesture - Double Touch;
+What is the Android application that runs in an isolated area of the operating system and doesn't have access to the rest of the systems resources, unless access is granted by user?;Sandbox;
